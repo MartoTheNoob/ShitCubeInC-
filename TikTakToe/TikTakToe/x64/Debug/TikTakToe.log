@@ -1,0 +1,95 @@
+﻿  win32_platform.cpp
+H:\Scripts\TikTakToe\TikTakToe\Renderer.cpp(109,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Renderer.cpp(138,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Renderer.cpp(139,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Renderer.cpp(141,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(69,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(73,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(90,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(94,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(106,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(122,109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(123,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(127,127): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(128,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(135,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(136,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(138,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(139,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(140,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(141,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(144,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(148,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(152,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(156,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(179,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\Cube.cpp(193,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\game.cpp(13,37): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\game.cpp(14,38): warning C4305: '-=': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\game.cpp(30,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\game.cpp(31,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\game.cpp(32,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+H:\Scripts\TikTakToe\TikTakToe\game.cpp(33,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+  TikTakToe.vcxproj -> H:\Scripts\TikTakToe\x64\Debug\TikTakToe.exe
